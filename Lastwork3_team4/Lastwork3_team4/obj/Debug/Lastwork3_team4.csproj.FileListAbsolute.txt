@@ -1,0 +1,14 @@
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.csproj.AssemblyReference.cache
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.csproj.SuggestedBindingRedirects.cache
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.Form1.resources
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.Properties.Resources.resources
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.csproj.GenerateResource.cache
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.csproj.CoreCompileInputs.cache
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\bin\Debug\Lastwork3_team4.exe.config
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\bin\Debug\Lastwork3_team4.exe
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\bin\Debug\Lastwork3_team4.pdb
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.exe
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.pdb
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\bin\Debug\System.Data.SQLite.dll
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\bin\Debug\System.Data.SQLite.xml
+C:\Users\SuzukiSora\source\repos\Lastwork3_team4\Lastwork3_team4\obj\Debug\Lastwork3_team4.csproj.CopyComplete
